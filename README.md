@@ -26,3 +26,4 @@ $mvn spring-boot:run
 ```
 
 ## UML Diagram
+<img src="https://github.com/hakanyilmazz/discount-calculater/blob/main/screenshots/uml.jpg">
