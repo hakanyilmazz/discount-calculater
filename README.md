@@ -25,5 +25,5 @@ $mvn clean install
 $mvn spring-boot:run
 ```
 
-## UML Diagram
+## UML Diagram (Some class types not writed, because so long names 😢)
 <img src="https://github.com/hakanyilmazz/discount-calculater/blob/main/screenshots/uml.jpg">
