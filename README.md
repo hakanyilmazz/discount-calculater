@@ -8,7 +8,6 @@
 
 3- Postman
 
----------------------------------------
 
 ## How to build?
 ---------------------------------------
@@ -20,12 +19,14 @@ $mvn clean install
 ```
 
 ## How to run?
+---------------------------------------
 1- Run this script on terminal
 ```
 $mvn spring-boot:run
 ```
 
 ## How to send POST request
+---------------------------------------
 1- Open Postman -> File -> New -> HTTP Request -> Select POST
 
 2- Enter this url: ```localhost:8080/calculateDiscount```
@@ -57,5 +58,11 @@ Name: Phone - Price: 500,
 Name: Book - Price: 50
 ```
 
+## Design Patterns:
+---------------------------------------
+1- Chain of responsibility,
+
+
 ## UML Diagram (Some class types not writed, because so long names 😢)
+---------------------------------------
 <img src="https://github.com/hakanyilmazz/discount-calculater/blob/main/screenshots/uml.jpg">
